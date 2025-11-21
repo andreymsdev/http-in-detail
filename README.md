@@ -32,7 +32,7 @@ http://user:psw@host/domain:port/path/string/fragment
 - **string:** informações extras (dependem do que você está acessando)  
 - **fragment:** referência ao local  
 
----
+---https://tryhackme.com/room/httpindetail
 
 #### MÉTODOS DE HTTP
 
@@ -97,3 +97,5 @@ Esses são os cabeçalhos retornados ao cliente pelo servidor após uma requisi�
 - **Content-Encoding:** método usado para comprimir os dados e enviá-los de forma eficiente  
 
 ---
+ Para mais: https://tryhackme.com/room/httpindetail
+ 
