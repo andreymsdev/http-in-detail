@@ -47,7 +47,7 @@ http://user:psw@host/domain:port/path/string/fragment
 
 Quando um servidor HTTP responde, a primeira linha sempre contém um *status code* informando ao cliente o resultado da requisição.  
 
-### 🔢 Faixas de códigos
+### Faixas de códigos
 
 | Faixa | Significado |
 |-------|-------------|
