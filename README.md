@@ -75,8 +75,6 @@ Quando um servidor HTTP responde, a primeira linha sempre contém um *status cod
 | **500 - Internal Server Error** | Erro inesperado no servidor. |
 | **503 - Service Unavailable** | Servidor sobrecarregado ou em manutenção. |
 
-👉 Para aprender de forma visual, confira [http.cat](https://http.cat/).
-
 ---
 
 ## Conceitos básicos
